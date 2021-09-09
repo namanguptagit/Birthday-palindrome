@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #28141E;
+    color: white;
+    text-align: center;
+}
+
+#output{
+    text-align: center;
+    padding: 2rem;
+    font-size: large;
+}
