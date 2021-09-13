@@ -148,7 +148,7 @@ function clickHandler(e){
         }
         else{
             var [ctr , nextDate] = getNextPalindromeDate(date);
-            outputE1.innerText = "The next Palindrome date is" +nextDate.day+"-"+nextDate.month+"-"+nextDate.year+", youu missed it by "+ctr+ "days ! 😥";
+            outputE1.innerText = "The next Palindrome date is" +nextDate.day+"-"+nextDate.month+"-"+nextDate.year+", you missed it by "+ctr+ " days ! 😥";
         }
 
     }
